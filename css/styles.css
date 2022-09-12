@@ -186,6 +186,11 @@ body {
   color: #ffffff;
 }
 
+.address-link:hover,
+.address-link:focus {
+  color: var(--accent-color);
+}
+
 footer .mail-link,
 footer .tel-link {
   color: rgba(255, 255, 255, 0.6);
